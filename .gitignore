@@ -1,0 +1,8 @@
+*.log
+*.gz
+archive/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscodel
