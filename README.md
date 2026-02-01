@@ -1,1 +1,1 @@
-#Bash Automation Toolkit: Log Rotator
+# Bash Automation Toolkit: Log Rotator
